@@ -1,7 +1,13 @@
-# Constant-Learning
-Repositorio de aprendizaje continuo con ejemplos e investigación.
+# RxJs
+Rama dedicada a RxJS.
 
-En este repositorio iré subiendo el recorrido de mi aprendizaje. Durante la carrera de ingeniería informática y otros aprendizajes.
+Para el proceso de aprendizaje de RxJS me apoyare en:
+
+- [Documentación oficial](http://reactivex.io/)
+
+- [Curso de udemy RxJS nivel Pro](https://www.udemy.com/rxjs-nivel-pro/)
+
+En caso de dudas, notificación de errores o recomendaciones de cualquier tipo no dudes en abrir una [Issue](https://github.com/trigoporres/Constant-Learning/issues).
 
 Iré escribiendo artículos en mí [blog de medium](https://medium.com/@trigoporres) y aquí compartiré el código de los ejemplos de esos artículos.
 
